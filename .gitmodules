@@ -1,3 +1,6 @@
 [submodule "DevTools_Lab2_Eremin"]
 	path = DevTools_Lab2_Eremin
 	url = https://github.com/vya4eslavv/DevTools_Lab2_Eremin
+[submodule "bebras-platform"]
+	path = bebras-platform
+	url = https://github.com/France-ioi/bebras-platform
